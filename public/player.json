@@ -1,0 +1,134 @@
+[
+  {
+    "player_image": "https://i.ibb.co.com/twKyg0cc/images-3.webp",
+    "player_name": "Shakib Al Hasan",
+    "player_country": "Bangladesh",
+    "playing_role": "All-Rounder",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "team": "Chittagong Kings",
+    "price": "BDT 80 Lakh",
+    "rating": 9.8
+  },
+  {
+    "player_image": "https://i.ibb.co.com/C572hMJD/gettyimages-1308580195-1-1643292155.jpg",
+    "player_name": "Tamim Iqbal",
+    "player_country": "Bangladesh",
+    "playing_role": "Batsman",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "None",
+    "team": "Fortune Barishal",
+    "price": "BDT 80 Lakh",
+    "rating": 9.5
+  },
+  {
+    "player_image": "https://i.ibb.co.com/dJpVv57p/images-2.webp",
+    "player_name": "Mushfiqur Rahim",
+    "player_country": "Bangladesh",
+    "playing_role": "Wicketkeeper Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "None",
+    "team": "Fortune Barishal",
+    "price": "BDT 80 Lakh",
+    "rating": 9.3
+  },
+  {
+    "player_image": "https://i.ibb.co.com/Vcn8Vn9S/image-44202-1644672574.webphttps://i.ibb.co.com/VcFKvXhM/images-1.webp",
+    "player_name": "Mustafizur Rahman",
+    "player_country": "Bangladesh",
+    "playing_role": "Bowler",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm fast-medium",
+    "team": "Dhaka Capitals",
+    "price": "BDT 80 Lakh",
+    "rating": 9.2
+  },
+  {
+    "player_image": "https://i.ibb.co.com/5gSCx4dT/images.webp",
+    "player_name": "Litton Das",
+    "player_country": "Bangladesh",
+    "playing_role": "Wicketkeeper Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "None",
+    "team": "Dhaka Capitals",
+    "price": "BDT 80 Lakh",
+    "rating": 9.1
+  },
+  {
+    "player_image": "https://i.ibb.co.com/N6FyCXfp/images.jpg",
+    "player_name": "Towhid Hridoy",
+    "player_country": "Bangladesh",
+    "playing_role": "Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "team": "Durbar Rajshahi",
+    "price": "BDT 80 Lakh",
+    "rating": 8.9
+  },
+  {
+    "player_image": "https://i.ibb.co.com/Z1zMb6bJ/gettyimages-2200102917-1024x1024.jpg",
+    "player_name": "Mehidy Hasan Miraz",
+    "player_country": "Bangladesh",
+    "playing_role": "All-Rounder",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "team": "Sylhet Strikers",
+    "price": "BDT 80 Lakh",
+    "rating": 9.4
+  },
+  {
+    "player_image": "https://i.ibb.co.com/KxfRTVW1/maxresdefault.jpg",
+    "player_name": "Taskin Ahmed",
+    "player_country": "Bangladesh",
+    "playing_role": "Bowler",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm fast",
+    "team": "Durbar Rajshahi",
+    "price": "BDT 80 Lakh",
+    "rating": 8.8
+  },
+  {
+    "player_image": "https://i.ibb.co.com/dJmVQHCB/Mahmudullah-Riyad.jpg",
+    "player_name": "Mahmudullah Riyad",
+    "player_country": "Bangladesh",
+    "playing_role": "All-Rounder",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "team": "Fortune Barishal",
+    "price": "BDT 80 Lakh",
+    "rating": 8.7
+  },
+  {
+    "player_image": "https://i.ibb.co.com/yzM0wr2/40164e34122678ce6b4020f75a959708-Y29ud-GVud-HNl-YXJja-GFwa-Swx-Njkx-MDY5-OTAy-2-73047795.jpg",
+    "player_name": "Moeen Ali",
+    "player_country": "England",
+    "playing_role": "All-Rounder",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "team": "Chittagong Kings",
+    "price": "USD 80,000",
+    "rating": 9.0
+  },
+  {
+    "player_image": "https://i.ibb.co.com/60KmM5yG/skysports-dawid-malan-yorkshire-5405500.jpg",
+    "player_name": "Dawid Malan",
+    "player_country": "England",
+    "playing_role": "Batsman",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Legbreak",
+    "team": "Durbar Rajshahi",
+    "price": "USD 80,000",
+    "rating": 8.9
+  },
+  {
+    "player_image": "https://i.ibb.co.com/Rkx8wgm0/nurul-hasan-sohan.png",
+    "player_name": "Nurul Hasan Sohan",
+    "player_country": "Bangladesh",
+    "playing_role": "Wicketkeeper Batsman",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "None",
+    "team": "Rangpur Riders",
+    "price": "BDT 50 Lakh",
+    "rating": 8.5
+  }
+]
