@@ -17,7 +17,6 @@ const AvailablePlayers = ({
         <PlayerCard
           setPurchasedPlayers={setPurchasedPlayers}
           purchasedPlayers={purchasedPlayers}
-          setPurchasedPlayers={setPurchasedPlayers}
           availableBalance={availableBalance}
           setAvailableBalance={setAvailableBalance}
           player={player}
