@@ -7,7 +7,7 @@
     "batting_style": "Left-hand bat",
     "bowling_style": "Slow left-arm orthodox",
     "team": "Chittagong Kings",
-    "price": "BDT 80 Lakh",
+    "price": "600000",
     "rating": 9.8
   },
   {
@@ -18,7 +18,7 @@
     "batting_style": "Left-hand bat",
     "bowling_style": "None",
     "team": "Fortune Barishal",
-    "price": "BDT 80 Lakh",
+    "price": "500000",
     "rating": 9.5
   },
   {
@@ -29,7 +29,7 @@
     "batting_style": "Right-hand bat",
     "bowling_style": "None",
     "team": "Fortune Barishal",
-    "price": "BDT 80 Lakh",
+    "price": "600000",
     "rating": 9.3
   },
   {
@@ -40,7 +40,7 @@
     "batting_style": "Left-hand bat",
     "bowling_style": "Left-arm fast-medium",
     "team": "Dhaka Capitals",
-    "price": "BDT 80 Lakh",
+    "price": "400000",
     "rating": 9.2
   },
   {
@@ -51,7 +51,7 @@
     "batting_style": "Right-hand bat",
     "bowling_style": "None",
     "team": "Dhaka Capitals",
-    "price": "BDT 80 Lakh",
+    "price": "600000",
     "rating": 9.1
   },
   {
@@ -62,7 +62,7 @@
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm offbreak",
     "team": "Durbar Rajshahi",
-    "price": "BDT 80 Lakh",
+    "price": "400000",
     "rating": 8.9
   },
   {
@@ -73,7 +73,7 @@
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm offbreak",
     "team": "Sylhet Strikers",
-    "price": "BDT 80 Lakh",
+    "price": "400000",
     "rating": 9.4
   },
   {
@@ -84,7 +84,7 @@
     "batting_style": "Left-hand bat",
     "bowling_style": "Right-arm fast",
     "team": "Durbar Rajshahi",
-    "price": "BDT 80 Lakh",
+    "price": "500000",
     "rating": 8.8
   },
   {
@@ -95,7 +95,7 @@
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm offbreak",
     "team": "Fortune Barishal",
-    "price": "BDT 80 Lakh",
+    "price": "600000",
     "rating": 8.7
   },
   {
@@ -106,7 +106,7 @@
     "batting_style": "Left-hand bat",
     "bowling_style": "Right-arm offbreak",
     "team": "Chittagong Kings",
-    "price": "USD 80,000",
+    "price": "700000",
     "rating": 9.0
   },
   {
@@ -117,7 +117,7 @@
     "batting_style": "Left-hand bat",
     "bowling_style": "Legbreak",
     "team": "Durbar Rajshahi",
-    "price": "USD 80,000",
+    "price": "800000",
     "rating": 8.9
   },
   {
@@ -128,7 +128,7 @@
     "batting_style": "Right-hand bat",
     "bowling_style": "None",
     "team": "Rangpur Riders",
-    "price": "BDT 50 Lakh",
+    "price": "400000",
     "rating": 8.5
   }
 ]
